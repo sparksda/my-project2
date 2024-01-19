@@ -1,1 +1,1 @@
-Example of git push -rebase
+Example of git pull -rebase
