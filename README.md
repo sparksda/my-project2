@@ -1,4 +1,2 @@
-Example of git pull -rebase
-Testing rebase
-again.
-Last time testing rebase in git. Fingers crossed.
+Testing merge conflict. This line was added remotely. 
+
